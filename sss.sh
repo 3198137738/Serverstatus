@@ -6,7 +6,7 @@
 #   Description: Server Status 监控安装脚本
 #========================================================
 
-GITHUB_RAW_URL="https://raw.githubusercontent.com/3198137738/Serverstatus"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/3198137738/Serverstatus/main"
 
 red='\033[0;31m'
 green='\033[0;32m'
