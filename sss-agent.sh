@@ -10,7 +10,7 @@
 SSS_BASE_PATH="/opt/sss"
 SSS_AGENT_PATH="${SSS_BASE_PATH}/agent"
 SSS_AGENT_SERVICE="/etc/systemd/system/sss-agent.service"
-GITHUB_RAW_URL="https://raw.githubusercontent.com/3198137738/Serverstatus"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/3198137738/Serverstatus/main"
 
 red='\033[0;31m'
 green='\033[0;32m'
