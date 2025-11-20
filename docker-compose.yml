@@ -1,7 +1,7 @@
 version: "3"
 services:
   sss:
-    image: 3198137738/tz
+    image: 3198137738/tz:latest
     container_name: sss
     restart: unless-stopped
     volumes:
