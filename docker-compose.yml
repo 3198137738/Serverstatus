@@ -1,7 +1,7 @@
 version: "3"
 services:
   sss:
-    image: cppla/serverstatus:1.1.1
+    image: 3198137738/tz
     container_name: sss
     restart: unless-stopped
     volumes:
